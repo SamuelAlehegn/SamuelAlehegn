@@ -1,8 +1,8 @@
 # Hello, I'm Samuel A. Takele! 👋
 
 ## About Me
-I'm a passionate developer with expertise in **Python**, **Java**, **Spring Boot**, and **Angular**. I enjoy building innovative and 
-efficient solutions to complex problems. I believe in continuously learning and improving my skills.
+I'm  self-taught passionate developer with expertise in **Python**, **Java**, **Spring Boot**, and **Angular**. 
+I enjoy building innovative and  efficient solutions to complex problems. I believe in continuously learning and improving my skills.
 
 I have a strong foundation in Python and enjoy leveraging its versatility to develop web applications. I'm proficient in using
 popular Python libraries and frameworks such as NumPy, Pandas, Streamlit, and Django.
@@ -18,6 +18,8 @@ I have used Streamlit to build intuitive and user-friendly interfaces for showca
 I'm passionate about staying up-to-date with the latest technologies and best practices in software development. 
 I actively seek out new learning opportunities and enjoy collaborating with other developers to tackle challenges 
 and deliver high-quality solutions.
+
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelalehegn)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **SamuelAlehegn/SamuelAlehegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
