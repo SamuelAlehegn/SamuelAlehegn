@@ -15,10 +15,6 @@ When it comes to frontend development, I'm skilled in Angular.
 I'm also familiar with Streamlit, a Python library for creating interactive data science and machine learning applications. 
 I have used Streamlit to build intuitive and user-friendly interfaces for showcasing data analysis, visualizations.
 
-I'm passionate about staying up-to-date with the latest technologies and best practices in software development. 
-I actively seek out new learning opportunities and enjoy collaborating with other developers to tackle challenges 
-and deliver high-quality solutions.
-
 ## Skills
 In my journey as a developer, I have honed a diverse set of skills that empower me to craft extraordinary solutions.
 Here are some of the skills I possess:
