@@ -31,9 +31,9 @@ Here are some of the skills I possess:
 
  
 ## Contact Me
- 📬 Email: samuelalehegn1@gmail.com
- 🔗 LinkedIn: https://www.linkedin.com/in/samuel-alehegn
- 💬 Telegram: https://t.me/SamuelAlehegn
+📬 Email: samuelalehegn1@gmail.com  
+🔗 LinkedIn: [Samuel Alehegn](https://www.linkedin.com/in/samuel-alehegn)  
+💬 Telegram: [Contact @SamuelAlehegn](https://t.me/SamuelAlehegn)
   
  
 <!--
