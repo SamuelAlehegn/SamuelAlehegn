@@ -19,7 +19,11 @@ I'm passionate about staying up-to-date with the latest technologies and best pr
 I actively seek out new learning opportunities and enjoy collaborating with other developers to tackle challenges 
 and deliver high-quality solutions.
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelalehegn)](https://github.com/anuraghazra/github-readme-stats)
+## Contact Me
+- Email: samuelalehegn1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuel-alehegn/
+- Telegram: https://t.me/SamuelAlehegn
+  
  
 <!--
 **SamuelAlehegn/SamuelAlehegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +31,7 @@ and deliver high-quality solutions.
 
 ## About Me
 I'm a passionate programmer and software developer with expertise in [mention your areas of expertise]. I enjoy building innovative and efficient solutions to complex problems. I believe in continuously learning and improving my skills.
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelalehegn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 - Programming Languages: [List of programming languages you're proficient in]
