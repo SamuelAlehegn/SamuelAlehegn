@@ -1,25 +1,15 @@
 # Hello, I'm Samuel A. Takele! 👋
 
 ## About Me
-I'm  self-taught passionate developer with expertise in **Python**, **Java**, **Spring Boot**, and **Angular**. 
+I'm self-taught passionate developer with expertise in **Python**, **Java**, **Spring Boot**, and **Angular**. 
 I enjoy building innovative and  efficient solutions to complex problems. I believe in continuously learning and improving my skills.
-
-I have a strong foundation in Python and enjoy leveraging its versatility to develop web applications. I'm proficient in using
-popular Python libraries and frameworks such as NumPy, Pandas, Streamlit, and Django.
-
-In the Java ecosystem, I have experience working with Spring Boot, a powerful framework for building enterprise-grade applications.
-I have developed RESTful APIs, implemented security features, and integrated third-party services using Spring Boot.
-
-When it comes to frontend development, I'm skilled in Angular.
-
-I'm also familiar with Streamlit, a Python library for creating interactive data science and machine learning applications. 
-I have used Streamlit to build intuitive and user-friendly interfaces for showcasing data analysis, visualizations.
 
 ## Skills
 In my journey as a developer, I have honed a diverse set of skills that empower me to craft extraordinary solutions.
 Here are some of the skills I possess:
 
-🔥 **Python**: I wield the power of Python to breathe life into web application.  
+🔥 **Python**: I have a strong foundation in Python and enjoy leveraging its versatility to develop web applications. 
+               I'm proficient in using popular Python libraries and frameworks such as NumPy, Pandas, Streamlit, and Django. 
 
 ☕ **Java**: Armed with the might of Java, I forge enterprise-grade applications with Spring Boot.  
 
