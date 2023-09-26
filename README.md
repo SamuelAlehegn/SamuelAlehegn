@@ -19,7 +19,7 @@ I have used Streamlit to build intuitive and user-friendly interfaces for showca
 In my journey as a developer, I have honed a diverse set of skills that empower me to craft extraordinary solutions.
 Here are some of the skills I possess:
 
-🔥 **Pythonic**: I wield the power of Python to breathe life into web application.  
+🔥 **Python**: I wield the power of Python to breathe life into web application.  
 
 ☕ **Java**: Armed with the might of Java, I forge enterprise-grade applications with Spring Boot.  
 
@@ -29,16 +29,11 @@ Here are some of the skills I possess:
     With its mystical abilities, I create captivating data science and machine learning applications, 
     enchanting users with intuitive visualizations.
 
-🚀 **Continuous Learner**: I am forever a student of the ever-evolving tech universe, relentlessly
-   seeking knowledge and embracing new technologies. I thrive in the fast-paced world of learning, 
-   constantly expanding my repertoire of skills.
-
  
-
 ## Contact Me
-- 📬 Email: samuelalehegn1@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/samuel-alehegn
-- 💬 Telegram: https://t.me/SamuelAlehegn
+ 📬 Email: samuelalehegn1@gmail.com
+ 🔗 LinkedIn: https://www.linkedin.com/in/samuel-alehegn
+ 💬 Telegram: https://t.me/SamuelAlehegn
   
  
 <!--
