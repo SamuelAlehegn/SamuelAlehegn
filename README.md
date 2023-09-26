@@ -1,17 +1,23 @@
 # Hello, I'm Samuel A. Takele! 👋
 
 ## About Me
-I'm a passionate developer with expertise in ## Python, Java, Spring Boot, and Angular. I enjoy building innovative and efficient solutions to complex problems. I believe in continuously learning and improving my skills.
+I'm a passionate developer with expertise in **Python**, **Java**, **Spring Boot**, and **Angular**. I enjoy building innovative and 
+efficient solutions to complex problems. I believe in continuously learning and improving my skills.
 
-I have a strong foundation in Python and enjoy leveraging its versatility to develop web applications. I'm proficient in using popular Python libraries and frameworks such as NumPy, Pandas, Streamlit, and Django.
+I have a strong foundation in Python and enjoy leveraging its versatility to develop web applications. I'm proficient in using
+popular Python libraries and frameworks such as NumPy, Pandas, Streamlit, and Django.
 
-In the Java ecosystem, I have experience working with Spring Boot, a powerful framework for building enterprise-grade applications. I have developed RESTful APIs, implemented security features, and integrated third-party services using Spring Boot.
+In the Java ecosystem, I have experience working with Spring Boot, a powerful framework for building enterprise-grade applications.
+I have developed RESTful APIs, implemented security features, and integrated third-party services using Spring Boot.
 
 When it comes to frontend development, I'm skilled in Angular.
 
-I'm also familiar with Streamlit, a Python library for creating interactive data science and machine learning applications. I have used Streamlit to build intuitive and user-friendly interfaces for showcasing data analysis, visualizations.
+I'm also familiar with Streamlit, a Python library for creating interactive data science and machine learning applications. 
+I have used Streamlit to build intuitive and user-friendly interfaces for showcasing data analysis, visualizations.
 
-I'm passionate about staying up-to-date with the latest technologies and best practices in software development. I actively seek out new learning opportunities and enjoy collaborating with other developers to tackle challenges and deliver high-quality solutions.
+I'm passionate about staying up-to-date with the latest technologies and best practices in software development. 
+I actively seek out new learning opportunities and enjoy collaborating with other developers to tackle challenges 
+and deliver high-quality solutions.
  
 <!--
 **SamuelAlehegn/SamuelAlehegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
