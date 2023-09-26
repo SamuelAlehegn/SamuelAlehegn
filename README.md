@@ -21,28 +21,28 @@ and deliver high-quality solutions.
 
 ## Skills
 In my journey as a developer, I have honed a diverse set of skills that empower me to craft extraordinary solutions.
-Here are some of the superpowers I possess:
+Here are some of the skills I possess:
 
-🔥 **Pythonic Wizardry**: I wield the power of Python to breathe life into web application.  
+🔥 **Pythonic**: I wield the power of Python to breathe life into web application.  
 
-☕ **Java Sorcery**: Armed with the might of Java, I forge enterprise-grade applications with Spring Boot.  
+☕ **Java**: Armed with the might of Java, I forge enterprise-grade applications with Spring Boot.  
 
-🌐 **Angular Enchantment**: I harness the magic of Angular, crafting mesmerizing user interfaces that captivate and engage.
+🌐 **Angular**: I harness the magic of Angular, crafting mesmerizing user interfaces that captivate and engage.
 
-📈 **Streamlit Alchemy**: Through the art of Streamlit, I transform raw data into interactive stories. 
+📈 **Streamlit**: Through the art of Streamlit, I transform raw data into interactive stories. 
     With its mystical abilities, I create captivating data science and machine learning applications, 
     enchanting users with intuitive visualizations.
 
-🚀 **Continuous Learning Warp**: I am forever a student of the ever-evolving tech universe, relentlessly
+🚀 **Continuous Learner**: I am forever a student of the ever-evolving tech universe, relentlessly
    seeking knowledge and embracing new technologies. I thrive in the fast-paced world of learning, 
    constantly expanding my repertoire of skills.
 
  
 
 ## Contact Me
-- Email: samuelalehegn1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/samuel-alehegn/
-- Telegram: https://t.me/SamuelAlehegn
+📬 Email: samuelalehegn1@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/samuel-alehegn/
+💬 Telegram: https://t.me/SamuelAlehegn
   
  
 <!--
